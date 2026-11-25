@@ -1,0 +1,15 @@
+/build/
+*.o
+*.obj
+*.out
+*.err
+*.exe
+*.a
+*.so
+*.nsys-rep
+*.ncu-rep
+*.qdrep
+*.sqlite
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
